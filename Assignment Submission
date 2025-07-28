@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="REMIS – A smart, accessible, and SEO-optimized Real Estate Management Information System designed to simplify property management, payments, and reporting." />
+  <meta name="keywords" content="REMIS, Real Estate System, Property Management, Rent Tracking, M-PESA Integration, Dashboard, Reports" />
+  <meta name="author" content="Your Name" />
+  <title>REMIS - Real Estate Management Information System</title>
+</head>
+<body>
+
+  <header role="banner">
+    <h1>REMIS: Real Estate Management Information System</h1>
+    <p>A smart web platform that simplifies property, rent, and service request management for landlords, agents, and tenants.</p>
+  </header>
+
+  <nav aria-label="Main navigation">
+    <ul>
+      <li><a href="#overview">Overview</a></li>
+      <li><a href="#features">Key Features</a></li>
+      <li><a href="#accessibility">Accessibility</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main id="main-content" role="main">
+
+    <section id="overview" aria-labelledby="overview-heading">
+      <h2 id="overview-heading">System Overview</h2>
+      <p>REMIS is a modern web-based application built to streamline property management workflows. It provides intuitive dashboards for admins, agents, and tenants to monitor rent, manage properties, respond to service requests, and generate detailed reports.</p>
+    </section>
+
+    <section id="features" aria-labelledby="features-heading">
+      <h2 id="features-heading">Key Features</h2>
+      <ul>
+        <li>Role-based dashboards for Admins, Agents, and Tenants</li>
+        <li>Automated rent tracking and forecasting with AI</li>
+        <li>M-PESA payment integration (STK Push & Callbacks)</li>
+        <li>Service request submission and status updates</li>
+        <li>Reports with PDF and Excel export options</li>
+        <li>Audit trails for activity logging and security</li>
+        <li>Multi-company support for scalable deployment</li>
+      </ul>
+    </section>
+
+    <section id="accessibility" aria-labelledby="accessibility-heading">
+      <h2 id="accessibility-heading">Built with Accessibility in Mind</h2>
+      <p>REMIS uses semantic HTML5 structure and ARIA landmarks to ensure full compatibility with screen readers and assistive technologies. The interface is navigable with keyboard shortcuts, and all user roles experience a clear content hierarchy.</p>
+    </section>
+
+    <section id="contact" aria-labelledby="contact-heading">
+      <h2 id="contact-heading">Contact & Support</h2>
+      <address>
+        <p>Email: <a href="mailto:support@remis.com">support@remis.com</a></p>
+        <p>Phone: +254-712-345678</p>
+      </address>
+    </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <p>&copy; 2025 REMIS by Your Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
